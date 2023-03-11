@@ -13,15 +13,15 @@
     "success_url": "https://t.me/new_ehi",
     "env": {
         "BOT_TOKEN": {
-            "description": "5083210468:AAGSq0y9iDPSHYFSJDcsUafscg2JWp0DvJk",
+            "description": "6109967361:AAEXZWE1hSoeHeadEDCiEyZMMuIoF7BDH8w",
             "value": ""
         },
         "API_HASH": {
-            "description": "fb95c19178dff8e5be224a79261cd19c",
+            "description": "0f9159afc920f9c592df555e4b1cb73b",
             "value": ""
         },
         "API_ID": {
-            "description": "10908371",
+            "description": "12349641",
             "value": ""
         }
     },
